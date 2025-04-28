@@ -12,11 +12,11 @@
 ## Team Skills
 | Member    | Skills                                 | Level  |
 |:----------|:---------------------------------------|:-------|
-| Alice     | Biomedical knowledge, Research         | High   |
-| Bob       | Biomedical knowledge, Risk analysis    | Medium |
-| Charlie   | CAD 3D modeling, Design innovation     | High   |
-| Dana      | 3D printing, Prototyping                | Medium |
-| Eve       | Documentation, Testing, Reporting      | High   |
+| Roksi     | Biomedical knowledge, Research         | High   |
+| Yiğit       | Biomedical knowledge, Risk analysis    | Medium |
+| Senem   | CAD 3D modeling, Design innovation     | High   |
+| Melis      | 3D printing, Prototyping                | Medium |
+| Beyza       | Documentation, Testing, Reporting      | High   |
 
 ## Missing Skills
 - Advanced material science knowledge (we will research this as needed)
